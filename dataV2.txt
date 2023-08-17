@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser","desc":"Standoff 2, a popular multiplayer first-person shooter, offers players the thrill of intense combat scenarios and strategic gameplay","photo":"https://iili.io/HDb47Ax.webp"},
+  {"title":"title2 ser","desc":"Beyond the battleground, an intricate virtual economy has emerged in the form of trading various in-game items","photo":"https://iili.io/HDb4YwQ.webp"},
+  {"title":"title3 ser","desc":"This article delves into the world of trading within Standoff 2, exploring the dynamics, strategies, and key considerations that players need to understand to succeed in this virtual marketplace","photo":"https://iili.io/HDb4A8b.webp"},
+  {"title":"title4 ser","desc":"The foundation of trading in Standoff 2 lies in its virtual economy. Players can obtain a variety of items, including skins, weapon cosmetics, and other in-game assets","photo":"https://iili.io/HDb4xM7.webp"},
+  {"title":"title5 ser","desc":"These items hold varying degrees of rarity, popularity, and desirability, forming the basis for trade transactions.","photo":"https://iili.io/HDb459j.webp"},
+  {"title":"title6 ser","desc":"Items in Standoff 2 are often categorized by rarity, ranging from common to legendary","photo":"https://iili.io/HDb4TFe.webp"},
+  {"title":"title7 ser","desc":"The rarity directly influences an item's perceived value, with rarer items generally being more sought after","photo":"https://iili.io/HDb4zP9.webp"},
+  {"title":"title8 ser","desc":"Skins with unique designs, vibrant colors, or ties to real-world culture often command higher prices.","photo":"https://iili.io/HDb4ucu.webp"}
    ]
  
 }
